@@ -17,6 +17,6 @@
 * [第1课：通过案例对Spark Streaming透彻理解三板斧之一](0001/index.md)
 * [第2课：通过案例对Spark Streaming透彻理解三板斧之二](0002/index.md)
 * [第3课：通过案例对Spark Streaming透彻理解三板斧之三](0002/index.md)
-* [第7课：通过案例对Spark Streaming透彻理解三板斧之一]
+* [第7课：通过案例对Spark Streaming透彻理解三板斧之一](0002/index.md)
 
 
