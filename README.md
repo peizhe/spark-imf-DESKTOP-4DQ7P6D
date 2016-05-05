@@ -22,7 +22,6 @@
 * [第11课：彻底解密WordCount运行原理](blog/0011.md)
 * [第12课：HA下的Spark集群工作原理解密](blog/0012.md)
 
-
 * [第13课：Spark内核架构解密](blog/0013.md)
 * [第14课：Spark RDD解密](blog/0014.md)
 * [第15课：RDD创建内幕彻底解密](blog/0015.md)
