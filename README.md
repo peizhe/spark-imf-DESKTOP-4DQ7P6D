@@ -10,11 +10,18 @@
 > *  QQ：1740415547
 > *  微信：18610086859
 > * 在线免费YY课堂（每天晚8点）：[68917580](http://www.yy.com/68917580)
+> * 微博地址：http://weibo.com/ilovepains
 
 ------
 
 ##课程目录
 
+* [第1集：大数据最火爆语言Scala光速入门](blog/0001.md)
+* [第2集：Scala面向对象彻底精通](blog/0002.md)
+* [第3课：Scala函数式编程彻底精通](blog/0003.md)
+* [第4课：Scala模式匹配、类型系统彻底精通](blog/0004.md)
+* [第5课：彻底精通Scala隐式转换和并发编程](blog/0005.md)
+* [第6课：精通Spark集群搭建与测试](blog/0006.md)
 * [第7课：实战解析Spark运行原理和RDD解密](blog/0007.md)
 * [第8课：彻底实战详解使用IDE开发Spark程序](blog/0008.md)
 * [第9课：彻底实战详解 IntelliJ IDEA下的Spark程序开发](blog/0009.md)
